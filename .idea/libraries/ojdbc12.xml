@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/Jdbc jarfile/ojdbc11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

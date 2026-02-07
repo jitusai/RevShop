@@ -1,0 +1,127 @@
+Feb 02, 2026 8:11:12 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Feb 02, 2026 8:11:12 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Feb 02, 2026 8:11:37 PM com.revshop.util.LoggerUtil logInfo
+INFO: User registered successfully: jitu@yahoo.com
+Feb 02, 2026 8:12:16 PM com.revshop.util.LoggerUtil logInfo
+INFO: User registered successfully: some1@yahoo.com
+Feb 02, 2026 8:12:35 PM com.revshop.util.LoggerUtil logInfo
+INFO: Seller registered successfully: someew, User ID: 13
+Feb 02, 2026 8:13:23 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: some1@yahoo.com
+Feb 02, 2026 8:13:28 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 7, Total: 0
+Feb 02, 2026 8:14:08 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product added: Hard Drive, Seller ID: 7
+Feb 02, 2026 8:14:11 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 7, Total: 1
+Feb 02, 2026 8:40:19 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Feb 02, 2026 8:40:19 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Feb 02, 2026 8:40:45 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Feb 02, 2026 8:40:51 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 2
+Feb 02, 2026 8:41:05 PM com.revshop.util.LoggerUtil logInfo
+INFO: Stock updated for product ID: 104, Quantity reduced: 30
+Feb 02, 2026 8:41:43 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product updated: ID=104
+Feb 02, 2026 8:41:45 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 2
+<<<<<<< HEAD
+Jan 30, 2026 1:59:30 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product added: EarBuds, Seller ID: 6
+Jan 30, 2026 1:59:37 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 3
+Jan 30, 2026 2:04:51 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 2:04:51 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 2:11:46 PM com.revshop.util.LoggerUtil logInfo
+INFO: User registered successfully: jitu@yahoo.com
+Jan 30, 2026 3:10:04 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 3:10:05 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 3:10:30 PM com.revshop.util.LoggerUtil logInfo
+INFO: User registered successfully: some@gmail.com
+Jan 30, 2026 3:25:45 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: User@yahoo.com
+Jan 30, 2026 3:26:14 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Jan 30, 2026 3:26:21 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 3
+Jan 30, 2026 3:26:58 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product added:  , Seller ID: 6
+Jan 30, 2026 3:27:06 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 4
+Jan 30, 2026 3:30:32 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 4
+Jan 30, 2026 3:30:54 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 3:30:54 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 3:31:09 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Jan 30, 2026 3:31:19 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 4
+Jan 30, 2026 3:31:50 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 3:31:50 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 3:32:04 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Jan 30, 2026 3:32:13 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 4
+Jan 30, 2026 3:33:02 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 3:33:02 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 3:33:12 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 3:33:12 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 3:33:32 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Jan 30, 2026 3:33:40 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 4
+Jan 30, 2026 3:34:00 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 3
+Jan 30, 2026 5:37:03 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 5:37:04 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Jan 30, 2026 5:50:05 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Jan 30, 2026 5:50:05 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Feb 02, 2026 3:00:42 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Feb 02, 2026 3:00:43 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Feb 02, 2026 3:01:01 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Feb 02, 2026 3:01:08 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 3
+Feb 02, 2026 3:02:22 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product updated: ID=104
+Feb 02, 2026 3:02:28 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 3
+Feb 02, 2026 3:03:16 PM com.revshop.util.LoggerUtil logInfo
+INFO: Product deleted: ID=103
+Feb 02, 2026 3:03:20 PM com.revshop.util.LoggerUtil logInfo
+INFO: Fetched products by seller ID: 6, Total: 2
+=======
+>>>>>>> dev
+Feb 02, 2026 9:13:39 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Feb 02, 2026 9:13:39 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
+Feb 02, 2026 9:14:07 PM com.revshop.util.LoggerUtil logInfo
+INFO: User logged in successfully: king@yahoo.com
+Feb 07, 2026 5:52:25 PM com.revshop.util.LoggerUtil logInfo
+INFO: ReviewServiceImpl initialized successfully.
+Feb 07, 2026 5:52:26 PM com.revshop.util.LoggerUtil logInfo
+INFO: PaymentDAO initialized successfully
